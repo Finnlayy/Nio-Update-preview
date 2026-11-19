@@ -1,0 +1,6 @@
+{
+  "name": "OMEGA-NIO State-Graph Ledger & Execution Engine",
+  "description": "Zero-Trust State-Machine and Execution Orchestrator for native Kraken-CLI binary v0.4.1 and the Architect trading ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
